@@ -2,10 +2,10 @@
     height:fit-content;
     background-color:white;   
    height: 45px;
-   width: 1400px;
+   width: 100%;
 }
 .inner_banner_img {
-    height: 600px;
+    height: 50%;
     background-image:url('bg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
